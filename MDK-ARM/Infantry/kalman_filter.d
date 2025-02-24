@@ -1,0 +1,10 @@
+infantry\kalman_filter.o: ..\Components\algorithms\kalman_filter.c
+infantry\kalman_filter.o: ..\Components\algorithms\kalman_filter.h
+infantry\kalman_filter.o: ..\Components\algorithms\arm_math.h
+infantry\kalman_filter.o: ../Drivers/CMSIS/Include/core_cm4.h
+infantry\kalman_filter.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+infantry\kalman_filter.o: ../Drivers/CMSIS/Include/cmsis_version.h
+infantry\kalman_filter.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+infantry\kalman_filter.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+infantry\kalman_filter.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+infantry\kalman_filter.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h

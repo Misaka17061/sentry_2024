@@ -1,0 +1,11 @@
+infantry\user_lib.o: ..\Components\algorithms\user_lib.c
+infantry\user_lib.o: ..\Components\algorithms\user_lib.h
+infantry\user_lib.o: ../Components/utils/struct_typedef.h
+infantry\user_lib.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+infantry\user_lib.o: ..\Components\algorithms\arm_math.h
+infantry\user_lib.o: ../Drivers/CMSIS/Include/core_cm4.h
+infantry\user_lib.o: ../Drivers/CMSIS/Include/cmsis_version.h
+infantry\user_lib.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+infantry\user_lib.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+infantry\user_lib.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+infantry\user_lib.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h

@@ -1,0 +1,3 @@
+tool: GCC
+fileName: Sentry.map
+elfName: Sentry.elf
